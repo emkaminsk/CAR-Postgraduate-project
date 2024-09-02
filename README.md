@@ -1,4 +1,4 @@
-The code was created as solution to a problem and as a final project for postgraduate course on Technical University in Poznań in 2017.
+The code was created as solution to a problem and as a final project for postgraduate course on University of Technology in Poznań in 2017.
 
 The business problem is: in a complex, multistep process of loading CAR, how to visualize and measure impact of a single change to this process?
 
